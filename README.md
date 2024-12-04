@@ -1,4 +1,4 @@
-# Portfolio de Hiba AZZOUZI
+# PORTFOLIO de Hiba AZZOUZI
 
 <div align="center">
   <img src="https://img.shields.io/badge/Master-Data%20Science%20en%20Santé-blueviolet?style=for-the-badge" alt="Master Données de Santé">
