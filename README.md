@@ -1,11 +1,11 @@
-# 👩‍🔬 Portfolio de Hiba AZZOUZI
+# Portfolio de Hiba AZZOUZI
 
 <div align="center">
   <img src="https://img.shields.io/badge/Master-Data%20Science%20en%20Santé-blueviolet?style=for-the-badge" alt="Master Données de Santé">
   <img src="https://img.shields.io/badge/Licence-Psychologie%20%26%20Neuropsychologie-blue?style=for-the-badge" alt="Licence Psychologie & Neuropsychologie">
 </div>
 
-## 🌟 À Propos de Moi
+## À Propos de Moi
 
 Étudiante en Master Data Science en Santé, je combine une expertise interdisciplinaire en psychologie, neurosciences et analyse de données de santé. Mon parcours unique me permet de transformer des données complexes en insights cliniques précieux.
 
