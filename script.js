@@ -1,4 +1,3 @@
-/* Reset de base */
 * {
     margin: 0;
     padding: 0;
@@ -6,77 +5,83 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
     color: #333;
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
-    max-width: 1200px;
+    padding: 20px;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
+    background-color: #2c3e50;
+    color: white;
+    padding: 40px 0;
     text-align: center;
+    border-radius: 8px;
 }
 
 header h1 {
-    font-size: 36px;
-}
-
-header p {
-    font-size: 18px;
-    margin-top: 10px;
-}
-
-section {
-    padding: 40px 0;
-}
-
-h2 {
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 28px;
-    color: #333;
-}
-
-.about p {
-    font-size: 18px;
-    line-height: 1.8;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.project {
-    background-color: #fff;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.project h3 {
-    font-size: 24px;
+    font-size: 3em;
     margin-bottom: 10px;
 }
 
-.project p {
-    font-size: 16px;
-    color: #555;
+header p {
+    font-size: 1.2em;
+    font-weight: lighter;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+#about, #projects, #contact {
+    background-color: white;
+    margin-bottom: 40px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-card {
+    background-color: #ecf0f1;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project-card h3 {
+    font-size: 1.5em;
+    color: #34495e;
+}
+
+.project-card p {
+    font-size: 1em;
+    color: #7f8c8d;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
+    background-color: #2c3e50;
+    color: white;
     text-align: center;
+    padding: 20px;
+    border-radius: 8px;
 }
 
 footer p {
-    font-size: 14px;
+    font-size: 1em;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
